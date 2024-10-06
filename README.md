@@ -4,14 +4,19 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+>flutter run 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # firebase_eccomerce_app
+
+
+Home Page
+![Home apge](<Screenshot from 2024-10-06 10-21-10.png>)
+
+Favourite page
+![Favourite page](<Screenshot from 2024-10-06 10-21-25.png>)
+
+![Cart Page](<Screenshot from 2024-10-06 10-21-39.png>)
+
+![profile page](<Screenshot from 2024-10-06 10-21-58.png>)
+
+![product details page](<Screenshot from 2024-10-06 10-22-21.png>)
